@@ -9,6 +9,7 @@ public class Demo
 	public void minus()
 	{
 		System.out.println("check if showing on loginPage branch");
+		System.out.println("No error is showing");
 	}
 
 }
